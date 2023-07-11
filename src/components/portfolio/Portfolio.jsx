@@ -10,21 +10,21 @@ const data = [
     /*image: IMG1,*/
     title: 'Sudoku Solver',
     github: 'https://github.com/shinepark/handdetection',
-    demo: 'https://github.com'
+    demo: 'n/a'
   },
   {
     id: 2,
     /*image: IMG2,*/
     title: 'Hand Detection Game',
     github: 'https://github.com/shinepark/sudokusolve',
-    demo: 'https://github.com'
+    demo: 'n/a'
   },
   {
     id: 3,
     /*image: IMG3,*/
     title: 'This Website',
     github: 'https://github.com/shinepark/portfolio-website',
-    demo: 'https://github.com'
+    demo: 'http://localhost:3000'
   }
 
 ]
